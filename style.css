@@ -1,0 +1,46 @@
+#field{
+    border: 1px solid black;
+    width: 80%;
+    height: 40%;
+    margin: 2% 5% 0% 5%;
+}
+.cell{
+    width: 8px;
+    height: 8px;
+    border: 0.5px solid black;
+}
+
+.filled{
+    background-color: black;
+}
+.empty{
+    background-color: white;
+}
+
+.btn-class{
+    margin: 0% 5%;
+}
+
+button{
+    width: 70px;
+    height: 25px;
+    /* background-color: green; */
+    border: none;
+    font-size: medium;
+}
+
+.start-btn{
+    background-color: rgb(59, 214, 59);
+}
+
+.pause-btn{
+    background-color: rgb(208, 248, 208);
+}
+
+.random-btn{
+    background-color: rgb(165, 165, 165);
+}
+
+.reset-btn{
+    background-color: rgb(224, 66, 66);
+}
